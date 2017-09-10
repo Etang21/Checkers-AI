@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 .DS_Store
 *.class
+=======
+*.class
+.DS_Store
+>>>>>>> a5258042b41924b3d7d5348bb61ae3e450398af1
